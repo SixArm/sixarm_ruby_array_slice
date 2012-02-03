@@ -1,4 +1,4 @@
-= SixArm.com » Ruby » Array slices by size and count
+= SixArm.com » Ruby » Array slice methods by size and share
 
 Author:: Joel Parker Henderson, joel@joelparkerhenderson.com
 Copyright:: Copyright (c) 2006-2012 Joel Parker Henderson

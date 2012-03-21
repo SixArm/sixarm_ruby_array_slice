@@ -17,7 +17,7 @@ For docs go to <http://sixarm.com/sixarm_ruby_array_slice/doc>
 Want to help? We're happy to get pull requests.
 
 
-## Quickstart
+## Install quickstart
 
 Install:
 
@@ -25,11 +25,24 @@ Install:
 
 Bundler:
 
-    gem "sixarm_ruby_array_slice", "=2.1.4"
+    gem "sixarm_ruby_array_slice", "~>2.1.4"
 
 Require:
 
     require "sixarm_ruby_array_slice"
+
+
+## Install with security (optional)
+
+To enable high security for all our gems:
+
+    wget http://sixarm.com/sixarm.pem
+    gem cert --add sixarm.pem
+    gem sources --add http://sixarm.com
+
+To install with high security:
+
+    gem install sixarm_ruby_array_slice --test --trust-policy HighSecurity
 
 
 ## Example

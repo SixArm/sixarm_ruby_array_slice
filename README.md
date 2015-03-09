@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> Array slice methods by size and share
+# Ruby » <br> Array slice methods by size and share
 
 * Doc: <http://sixarm.com/sixarm_ruby_array_slice/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_array_slice>

@@ -1,1 +1,2 @@
-lib/sixarm_ruby_array_slice.rb 6e3d05396d6326fdd62449eded9efa48dfe9cc64
+lib/sixarm_ruby_array_slice.rb 1fc03a8c4f4e298b06c111c4594032e54d922746
+lib/sixarm_ruby_array_slice/array.rb a9e516779352b9503b2fdabe4e7c3afc15eae302

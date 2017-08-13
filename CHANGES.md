@@ -1,5 +1,6 @@
 # Changes
 
+* 2017-08-13 1.0.7 Update to Ruby 2.4, spdx licenses, rake test, etc.
 * 2015-07-18 2.1.6 Improve quality assurance
 * 2015-07-07 2.1.5 Update gemspec to use file manifest
 * 2012-03-16 2.1.4 1.9.3; minitest/spec; update docs, tests

@@ -31,25 +31,25 @@ describe Array do
     end
 
     it "with 0 count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_size(0)
       end
     end
 
     it "with negative count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_size(-1)
       end
     end
 
     it "with float count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_size(1.234)
       end
     end
 
     it "with non numeric count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_size(1.234)
       end
     end
@@ -76,25 +76,25 @@ describe Array do
     end
 
     it "with zero count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_share(0)
       end
     end
 
     it "with negative count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_share(-1)
       end
     end
 
     it "with float count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_share(1.234)
       end
     end
 
     it "with non numeric count" do
-      assert_raise ArgumentError do
+      assert_raises ArgumentError do
         A.slice_by_share("")
       end
     end

@@ -3,9 +3,9 @@
 Gem::Specification.new do |s|
 
   s.name           = "sixarm_ruby_array_slice"
-  s.summary        = "SixArm.com » Ruby » Array slice methods"
+  s.summary        = "SixArm.com → Ruby → Array slice methods"
   s.description    = "Provide Array #slice_by_share, #slice_by_size"
-  s.version        = "2.1.6"
+  s.version        = "2.1.7"
 
   s.author         = "SixArm"
   s.email          = "sixarm@sixarm.com"

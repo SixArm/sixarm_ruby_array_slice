@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> Array slice methods by size and share
+# SixArm.com → Ruby → <br> Array slice methods by size and share
 
 <!--HEADER-OPEN-->
 

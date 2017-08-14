@@ -1,0 +1,1 @@
+84fa4ee4353ce5c11e6049f8bbb1c7a8d9b621e6ec5c35008dcad95b52da289a0d8896d839f95b8e87abde99eb9f31f6a266752438491d9e3ce4a3efc9bee6dc  sixarm_ruby_array_slice-2.1.7.gem
